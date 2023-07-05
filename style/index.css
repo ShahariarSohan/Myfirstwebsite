@@ -2,16 +2,55 @@
     font-family:Arial, Helvetica, sans-serif;
    font-weight:lighter;
    box-sizing: border-box;
+   color:#34495e;
    
 }
 .container{
-    width:90%;
+    width:95%;
     margin:auto;
+    margin-top:30px;
 }
 .main-area{
     display:flex;
 }
-img{
+h2{
+    margin-bottom:80px;
+    margin-left:20px;
+}
+h3,h6{
+    margin:0;
+}
+h6{
+    margin-bottom:20px;
+}
+.section{
+   margin:15px; 
+}
+.p2{
+    font-size:14px;
+    font-weight:600;
+}
+.p1{
+    font-weight: 600;
+}
+#sec4{
+    font-size: 10px;
+}
+.name-area{
+    margin-bottom:20px;
     
-    margin:auto;
+}
+input{
+    height:30px;
+    float:left;
+    
+}
+.name-area input{
+    width:45%;
+}
+.name-area{
+    display:flex;
+}
+#in2{
+    margin-left:17px;
 }
