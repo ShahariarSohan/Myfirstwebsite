@@ -6,6 +6,16 @@ div{
     border-radius: 5px;
     
 }
+.box1{
+    background-color: #e74c3c;
+}
+.box2{
+    background-color: #7f8c8d;
+    
+}
+.box3{
+    background-color:#16a085;
+}
 p{
     padding:10px;
     text-align:justify;
