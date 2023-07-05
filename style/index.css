@@ -1,22 +1,15 @@
-div{
-    color:#ecf0f1;
-    background-color: #e74c3c;
-    margin:20px;
-    border:2px solid #2c3e50;
-    border-radius: 5px;
-    
+*{
+    font-family:Arial, Helvetica, sans-serif;
+   font-weight:lighter;
 }
-.box1{
-    background-color: #e74c3c;
+.container{
+    width:90%;
+    margin:auto;
 }
-.box2{
-    background-color: #7f8c8d;
-    
+.section1{
+    display:inline-block;
 }
-.box3{
-    background-color:#16a085;
-}
-p{
-    padding:10px;
-    text-align:justify;
+.section2{
+    width:20%;
+    display:inline-block;
 }
